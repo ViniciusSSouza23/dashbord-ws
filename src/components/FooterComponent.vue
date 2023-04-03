@@ -1,6 +1,6 @@
 <template>
   <footer class="footer-component bg-dark">
-    <div class="container py-5">
+    <div class="container py-4">
       <h6 class="text-center text-white">
         Develop by
         <a
